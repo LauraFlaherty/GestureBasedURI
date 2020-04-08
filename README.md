@@ -1,4 +1,5 @@
 # GestureBasedUi
 
 Link to app video:  https://youtu.be/y_JfN7yPqgU
-Link to walkthrough of the repository : 
+<br>
+Link to walkthrough of the repository : https://youtu.be/W0V80GU3kPU
